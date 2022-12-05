@@ -84,10 +84,10 @@
 
 .fifth {
     height: 800px;
+    background-color: #d3d3d3;
     /* Flex */
     justify-content: center;
     align-items: center;
-    background-color: #d3d3d3;
 }
 
 .fifth-box {
@@ -98,5 +98,48 @@
 }
 
 
-/* Footer - 1 */
+/* Footer */
+footer {
+    background-color: #23272a;
+}
 
+/* Footer First */
+
+.footer-first {
+    height: 520px;
+    padding-top: 10px;
+
+    /* Flex */
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.f-f-1 {
+    height: 470px;
+    width: calc(100% /3);
+    background-color: #f08080;
+    border: 2px dashed black;
+}
+
+.f-f-2 {
+    width: 100%;
+}
+
+#Alfa, #Bravo, #Charlie, #Delta {
+    height: 470px;
+    width: 25%;
+    background-color: #20b2aa;
+    border: 2px dashed white;
+}
+
+.stooopid-border {
+    border-bottom: 2px solid gray;
+}
+
+/* Footer Second */
+
+.barra-footer {
+    height: 100px;
+    width: 100%;
+    background-color: palevioletred;
+}
