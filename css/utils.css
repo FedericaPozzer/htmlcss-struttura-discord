@@ -1,0 +1,15 @@
+/* Utils */
+
+.container {
+	max-width: 1200px;
+	margin: 0 auto;
+	
+	background-color: palevioletred;
+	height: 100vh;
+}
+
+.clearfix::after {
+	content: '';
+	clear: both;
+	display: table;
+}
