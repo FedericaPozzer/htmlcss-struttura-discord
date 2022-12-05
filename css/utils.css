@@ -3,8 +3,6 @@
 .container {
 	max-width: 1100px;
 	margin: 0 auto;
-	
-	/* background-color: palevioletred; */
 }
 
 /* .clearfix::after {
@@ -15,4 +13,8 @@
 
 .d-flex {
 	display: flex;
+}
+
+.dash {
+    border: 2px dashed black;
 }
