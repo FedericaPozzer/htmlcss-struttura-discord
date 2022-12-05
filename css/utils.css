@@ -5,14 +5,14 @@
 	margin: 0 auto;
 	
 	/* background-color: palevioletred; */
-	height: 100vh;
+	/* height: 100vh; */
 }
 
-.clearfix::after {
+/* .clearfix::after {
 	content: '';
 	clear: both;
 	display: table;
-}
+} */
 
 .d-flex {
 	display: flex;

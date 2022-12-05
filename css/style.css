@@ -7,7 +7,7 @@
     padding: 20px 0 20px 0;
 }
 
-.container> div {
+.container> .log {
     height: 40px;
     width: 300px;
     background-color: #daa520;
@@ -35,10 +35,47 @@
 
 .first-box {
     height: 300px;
-    width: 600px;
+    width: 800px;
     border: 2px dashed black;
     background-color: #ee82ee;
 }
 
 
 /* Second */
+
+.second {
+    background-color: #ffffff;
+    /* background-color: yellow; */
+    height: 400px;
+    padding: 20px 0 20px 0;
+}
+
+.second-box1 {
+    height: 360px;
+    width: 70%;
+    background-color: #1e90ff;
+    border: 2px dashed black;
+}
+
+.second-box2 {
+    height: 360px;
+    width: 30%;
+    background-color: #ffc0cb;
+    border: 2px dashed black;
+}
+
+/* Third */
+
+.third {
+    background-color: #d3d3d3;
+    height: 400px;
+    padding: 20px 0 20px 0;
+}
+
+/* Fourth */
+
+.fourth {
+    background-color: #ffffff;
+    height: 400px;
+    padding: 20px 0 20px 0;
+}
