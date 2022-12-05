@@ -4,7 +4,7 @@
 	max-width: 1200px;
 	margin: 0 auto;
 	
-	background-color: palevioletred;
+	/* background-color: palevioletred; */
 	height: 100vh;
 }
 
@@ -12,4 +12,9 @@
 	content: '';
 	clear: both;
 	display: table;
+}
+
+.d-flex {
+	display: flex;
+	/* flex-direction: column; */
 }
