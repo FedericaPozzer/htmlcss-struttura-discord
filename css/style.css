@@ -79,3 +79,24 @@
     height: 400px;
     padding: 20px 0 20px 0;
 }
+
+/* Fifth */
+
+.fifth {
+    height: 800px;
+    /* Flex */
+    justify-content: center;
+    align-items: center;
+    background-color: #d3d3d3;
+}
+
+.fifth-box {
+    height: 750px;
+    width: 1200px;
+    border: 2px dashed black;
+    background-color: #228b22;
+}
+
+
+/* Footer - 1 */
+
